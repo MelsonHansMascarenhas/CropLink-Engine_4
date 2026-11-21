@@ -1,8 +1,0 @@
-{
-  "name": "croplink-logic-dsa",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "test": "node --test"
-  }
-}
