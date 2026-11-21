@@ -1,0 +1,9 @@
+{
+  "name": "croplink-four-engines",
+  "private": true,
+  "scripts": {
+    "test:logic": "npm --prefix Engine2_Logic_DSA test",
+    "build:frontend": "npm --prefix Engine3_Interface_Access/frontend run build"
+  },
+  "type": "module"
+}
